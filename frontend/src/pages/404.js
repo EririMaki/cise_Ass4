@@ -1,3 +1,4 @@
+//All pages done together
 import React from "react";
  
 function NotFoundPage ()  {
