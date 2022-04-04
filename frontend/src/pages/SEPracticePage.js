@@ -1,3 +1,5 @@
+//All pages done together
+
 import React from "react";
 import articles from "../dummydata/articles";
 import Styles from "../components/tablestyle";

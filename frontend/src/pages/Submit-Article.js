@@ -1,3 +1,5 @@
+//All pages done together
+
 import React from "react";
 import SubmissionForm from "../components/SubmissionForm";
 
