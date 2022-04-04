@@ -1,3 +1,4 @@
+//Done all together 
 import React from 'react';
 import SEPractices from "../dummydata/SEPractices"
 
